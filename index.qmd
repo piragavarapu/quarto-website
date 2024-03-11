@@ -33,7 +33,7 @@ Data Science & Investing - used ML algorithms to develop a trading strategy for 
 
 **Rocket Lab |** Supply Chain Analyst Intern | Jul 2022 - Sep 2022
 
-Data Analysis & Space Tech - set up a SQL workflow to identify areas of opportunity for reducing costs
+Data Analysis & Space Tech - set up a SQL workflow to identify areas of opportunity to reduce costs
 
 **Bluebonnet Data |** Political Data Fellow | Jan 2022 - May 2022
 
