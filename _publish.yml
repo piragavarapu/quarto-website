@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 483dab35-e405-4e47-b247-b071d6e9b108
+      url: 'priyanka-iragavarapu.netlify.app'
