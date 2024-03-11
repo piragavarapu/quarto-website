@@ -1,11 +1,9 @@
 {
-  "hash": "4b218e4df34bb52a90738eed05de7e66",
+  "hash": "1a681d59a20dabfb53c452d0a2d4f382",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntoc: false\n---\n\n\n\n## Sai Priyanka Iragavarapu\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntoc: false\nabout:\n  template: trestles\n  links:\n      - icon: linkedin\n        text: LinkedIn\n        url: https://www.linkedin.com/in/sai-priyanka-iragavarapu/\n      - icon: github\n        text: Github\n        url: https://github.com/piragavarapu\n      - icon: mail\n        text: Email\n        url: \"mailto:chary.priyanka@gmail.com\"\nimage: profile_pic2.JPG\n---\n\n\n\n## Sai Priyanka Iragavarapu\n\nHi, welcome to my website! \n\nI'm Priyanka (\"pree-yuh-nk-aah\"), a senior at UCLA graduating with a B.S. in Statistics and Data Science and a B.A. in Economics with a minor in Mathematics. At school, I'm the president of MoneyThink, a community service club focused on mentoring local high school students about financial literacy. I'm also involved with Data Resolutions, the largest data science organization at UCLA. Here, I've consulted with start-ups on data science projects and I currently lead the consulting division.\n\nOutside of school, I love dancing, drinking chai, kayaking, baking cheesecake, and watching Indian movies.\n\n\n\nTo see examples of my work, please visit the projects tab or see my [resume](/docs/CV/Iragavarapu, Sai Priyanka_Resume.pdf \"resume\")\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

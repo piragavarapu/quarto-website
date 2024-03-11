@@ -2,8 +2,17 @@
 title: "Projects"
 ---
 
-Here I can demonstrate my projects
+Some highlighted projects...
 
-```{r}
-sample(1:5,5)
-```
+## NLP in R for Movie Reviews
+
+This was my first ML project!
+
+## Kaggle Competition
+
+## What other projects have I done?
+
+- link winosaurus here?
+- maybe streamlit?
+- maybe aview?
+
