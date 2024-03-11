@@ -1,9 +1,11 @@
 {
-  "hash": "7fb8280b59b77121aa4ecb3e1cfbc04d",
+  "hash": "4b218e4df34bb52a90738eed05de7e66",
   "result": {
     "engine": "knitr",
-    "markdown": "\n## Sai Priyanka Iragavarapu\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntoc: false\n---\n\n\n\n## Sai Priyanka Iragavarapu\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
