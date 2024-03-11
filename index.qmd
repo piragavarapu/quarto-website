@@ -23,4 +23,20 @@ I'm Priyanka ("pree-yuh-nk-aah"), a senior at UCLA graduating with a B.S. in Sta
 
 Outside of school, I love dancing, drinking chai, kayaking, baking cheesecake, and watching Indian movies.
 
-To learn more about my work experience, please visit the work experience tab or see my [resume](/docs/CV/Iragavarapu, Sai Priyanka_Resume.pdf "resume").
+To learn more about my work experience, please read below or see my [resume](/docs/Iragavarapu, Sai Priyanka_Resume.pdf "resume").
+
+## Experience
+
+**BlackRock |** Quantitative Research Intern | Jun 2023 - Aug 2023
+
+Data Science & Investing - used ML algorithms to develop a trading strategy for asset futures
+
+**Rocket Lab |** Supply Chain Analyst Intern | Jul 2022 - Sep 2022
+
+Data Analysis & Space Tech - set up a SQL workflow to identify areas of opportunity to reduce costs
+
+
+**Bluebonnet Data |** Political Data Fellow
+
+Data Visualization & Local Politics - illustrating impact of potential climate initiatives with a Tableau heat map
+

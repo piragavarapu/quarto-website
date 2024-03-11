@@ -1,3 +1,15 @@
----
-toc: false
----
+
+## Experience
+
+**BlackRock |** Quantitative Research Intern | Jun 2023 - Aug 2023
+
+Data Science & Investing - used ML algorithms to develop a trading strategy for asset futures
+
+**Rocket Lab |** Supply Chain Analyst Intern | Jul 2022 - Sep 2022
+
+Data Analysis & Space Tech - set up a SQL workflow to identify areas of opportunity to reduce costs
+
+
+**Bluebonnet Data |** Political Data Fellow
+
+Data Visualization & Local Politics - illustrating impact of potential climate initiatives with a Tableau heat map

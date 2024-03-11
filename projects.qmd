@@ -1,8 +1,11 @@
 ---
 title: "Projects"
+toc: false
 ---
 
 Some highlighted projects...
+
+- **NLP in R for Movie Reviews** - my first ML project!
 
 ## NLP in R for Movie Reviews
 
