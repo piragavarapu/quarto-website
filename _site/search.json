@@ -18,41 +18,20 @@
     "href": "index.html",
     "title": "Sai Priyanka Iragavarapu",
     "section": "",
-    "text": "Hi, welcome to my website!\nI’m Priyanka (“pree-yuh-nk-aah”), a senior at UCLA graduating with a B.S. in Statistics and Data Science and a B.A. in Economics with a minor in Mathematics. At school, I’m the president of MoneyThink, a community service club focused on mentoring local high school students about financial literacy. I’m also involved with Data Resolutions, the largest data science organization at UCLA. Here, I’ve consulted with start-ups on data science projects and I currently lead the consulting division.\nOutside of school, I love dancing, drinking chai, kayaking, baking cheesecake, and watching Indian movies.\nTo learn more about my work experience, please read below or see my resume."
+    "text": "Hi, I’m Priyanka (“pree-yuh-nk-aah”). Welcome to my website!\nI’m a senior at UCLA graduating with a B.S. in Statistics and Data Science and a B.A. in Economics with a minor in Mathematics. At school, I’m the president of MoneyThink, a community service club focused on mentoring local high school students about financial literacy. I’m also involved with Data Resolutions, the largest data science organization at UCLA. Here, I’ve consulted with start-ups on data science projects and I currently lead the consulting division.\nOutside of school, I love dancing, drinking chai, kayaking, baking cheesecake, and watching Indian movies.\nTo learn more about my experience, please read below or see my resume."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Sai Priyanka Iragavarapu",
     "section": "Experience",
-    "text": "Experience\nBlackRock | Quantitative Research Intern | Jun 2023 - Aug 2023\nData Science & Investing - used ML algorithms to develop a trading strategy for asset futures\nRocket Lab | Supply Chain Analyst Intern | Jul 2022 - Sep 2022\nData Analysis & Space Tech - set up a SQL workflow to identify areas of opportunity to reduce costs\nBluebonnet Data | Political Data Fellow\nData Visualization & Local Politics - illustrating impact of potential climate initiatives with a Tableau heat map"
+    "text": "Experience\nBlackRock | Quantitative Research Intern | Jun 2023 - Aug 2023\nData Science & Investing - used ML algorithms to develop a trading strategy for asset futures\nRocket Lab | Supply Chain Analyst Intern | Jul 2022 - Sep 2022\nData Analysis & Space Tech - set up a SQL workflow to identify areas of opportunity for reducing costs\nBluebonnet Data | Political Data Fellow | Jan 2022 - May 2022\nData Visualization & Local Politics - illustrated impact of potential climate initiatives with a Tableau heat map"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Some highlighted projects…"
-  },
-  {
-    "objectID": "projects.html#nlp-in-r-for-movie-reviews",
-    "href": "projects.html#nlp-in-r-for-movie-reviews",
-    "title": "Projects",
-    "section": "NLP in R for Movie Reviews",
-    "text": "NLP in R for Movie Reviews\nThis was my first ML project!"
-  },
-  {
-    "objectID": "projects.html#kaggle-competition",
-    "href": "projects.html#kaggle-competition",
-    "title": "Projects",
-    "section": "Kaggle Competition",
-    "text": "Kaggle Competition"
-  },
-  {
-    "objectID": "projects.html#what-other-projects-have-i-done",
-    "href": "projects.html#what-other-projects-have-i-done",
-    "title": "Projects",
-    "section": "What other projects have I done?",
-    "text": "What other projects have I done?\n\nlink winosaurus here?\nmaybe streamlit?\nmaybe aview?"
+    "text": "Some highlighted projects…\n\nNLP in R for Movie Reviews - my first ML project!\nPredicting Car Accident Severity - my first Kaggle competition!"
   }
 ]

@@ -5,17 +5,6 @@ toc: false
 
 Some highlighted projects...
 
-- **NLP in R for Movie Reviews** - my first ML project!
+- **NLP in R for Movie Reviews** - my first ML [project](/docs/NLP.pdf "NLP in R for Movie Reviews")!
 
-## NLP in R for Movie Reviews
-
-This was my first ML project!
-
-## Kaggle Competition
-
-## What other projects have I done?
-
-- link winosaurus here?
-- maybe streamlit?
-- maybe aview?
-
+- **Predicting Car Accident Severity** - my first Kaggle [competition](/docs/Kaggle.pdf "Predicting Car Accident Severity")!
